@@ -1,4 +1,4 @@
-# Emotion
+# Emotion on text
 Introduction
 1.1	Problem
 The aim of the project to understand sentiment of the sentence in terms of the positivity/negativity and neutrality.
