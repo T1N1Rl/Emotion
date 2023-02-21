@@ -20,8 +20,10 @@ Furthermore, Bhagyashree (https://github.com/Bhagya4347/Emotion-Analysis-On-Text
 JCharis (https://github.com/Jcharis/end2end-nlp-project) text classification by categorizing 8  emotion (anger, disgust, fear, joy, neutral, sadness, shame, surprise) and compare it to sentiment (positive, neutral, negative).  There were also used typical NLP tokenization, words stopping were used by NLTK library.
 
 UTS assessment was employed by Akhmad Ramadani (https://github.com/AkhmadRamadani/learn-machine-learning/blob/6fb6c2d7bb1d5343e55fd036d4439502205f8be0/tweet-emotions-classification.ipynb). He also employed case-folding, tokenization, filtering, and stemming.
+
 1.3	Current work
 The project goal is to predict finer emotional meaning distinctions based on emotional categories on text, it will focus on the basic task of recognizing emotional passages and determining their valence (positive, neutral, negative) in this study because we do not currently have enough training data to explore finer-grained distinctions. The objective is to gain a thorough grasp of the nature of the NLP problem and to investigate aspects that may be relevant. Same as JCharis I get emotion value count from dataset, implement same NLP techniques: tokenization, stopword removal, keyword extraction, sentiment analysis, wordcloud.
+
 2. Data and Methods
 2.1 Information of the data
 The first and most critical step in moving any project forward is to collect a good dataset. Books have many different ways of expressing themselves and may be found in almost every language. The empirical research reported in this paper makes use of the great potential for text-based emotion recognition in book chapters. Currently, social media platforms such as Twitter have a lot more information available, therefore I utilized a previously prepared dataset from https://www.kaggle.com/datasets/pashupatigupta/emotion-detection-from-text?resource=download:
